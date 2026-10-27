@@ -25,6 +25,10 @@ function Navbar() {
             Proyectos
           </a>
 
+          <a href="#experiencia" className="hover:text-cyan-400">
+            Experiencia
+          </a>
+
           <a href="#contacto" className="hover:text-cyan-400">
             Contacto
           </a>
